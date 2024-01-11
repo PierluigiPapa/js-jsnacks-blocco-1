@@ -4,7 +4,7 @@ const nomi= ["Mike", "Dustin", "Lucas", "Will", "Jim", "Max", "Steve", "Jane"]
 //Costante per creare una lista di cognomi
 const cognomi= ["Wheeler", "Henderson", "Sinclair", "Byers", "Hopper", "Mayfield", "Harrington", "Ives", "Shelby", "Stinson", "Bing"]
 
-//Costante per generare il numero degli invitati
+//Variabile per generare il numero degli invitati
 let numeroPartecipanti= 10;
 
 //Funzione per generare la falsa lista
